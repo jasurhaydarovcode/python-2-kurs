@@ -63,10 +63,10 @@
 # match A:
 
 
-A = int(input(""))
-B = int(input(""))
-if A > 1:
-    print(A-1, B)
-else:
-    B-=1
-    if B < 1
+# A = int(input(""))
+# B = int(input(""))
+# if A > 1:
+#     print(A-1, B)
+# else:
+#     B-=1
+    # if B < 1
